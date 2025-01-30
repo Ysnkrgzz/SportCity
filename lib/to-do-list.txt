@@ -1,0 +1,16 @@
+TO-DO LİST
+FRONT-END
+Fully Upgrade ux/uı
+Home Screen update, add a some equipment to sell (Front-end)
+make Settings page, add a dark mode settings
+make profile page when user -> profile he sees us profile credentials, and making some changes(email, passwords etc.)
+
+BACK-END
+if user add a 1 equipment a cart he must see cart top 1 icon and if pressed cart they must see is what add the cart(protein powder, glutamine, basketball equipment, football equipment etc.)
+add 1 db for app we must using a firebase cloud
+db to connect mobile app
+
+DB-Settings
+ID-Username(or email)-name-surname-password
+PK,UK-String-string-string-string
+

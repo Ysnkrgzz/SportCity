@@ -1,4 +1,4 @@
-name: untitled
+name: sportcity
 description: "A new Flutter project."
 publish_to: 'none'  # Bu uygulama pub.dev'de yayınlanmayacak
 version: 0.1.0      # Uygulama versiyonu
@@ -12,14 +12,23 @@ dependencies:
   cupertino_icons: ^1.0.8       # iOS stil ikonlar için
   flutter_secure_storage: ^9.2.2 # Güvenli veri depolama için
   go_router: ^14.6.1            # Sayfa yönlendirme (routing) için
-  shared_preferences: ^2.3.3     # Basit veri depolama için
+  shared_preferences: ^2.3.5     # Basit veri depolama için
   dotlottie_loader: ^0.0.4
   lottie: ^3.2.0
+  firebase_core: ^2.27.1
+  firebase_auth: ^4.17.9
+  cloud_firestore: ^4.15.9
+  http: ^1.2.0  # HTTP paketi eklendi
+  cached_network_image: ^3.3.1
+  path_provider: ^2.1.2
+  flutter_dotenv: ^5.2.1
+  provider: ^6.1.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^4.0.0         # Kod kalitesi kontrolleri için
+  flutter_launcher_icons: ^0.13.1
 
 flutter:
   uses-material-design: true    # Material Design widget'larını kullanmak için
@@ -28,3 +37,19 @@ flutter:
     - assets/icons/           # İkonlar için
     - assets/languages/       # Dil dosyaları için
     - assets/motions/        # Animasyon dosyaları için
+    - .env
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/icons/app_icon.png"
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/icons/app_icon.png"
+  min_sdk_android: 21
+  remove_alpha_ios: true
+  web:
+    generate: false
+  windows:
+    generate: false
+  macos:
+    generate: false

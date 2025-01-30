@@ -1,0 +1,71 @@
+[
+    {
+      "id": "1737996750763",
+      "items": [
+        {
+          "id": "2",
+          "name": "Adidas Tiro Eşofman",
+          "price": "2222 TL",
+          "imageUrl": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=500&q=80",
+          "category": "Giyim"
+        }
+      ],
+      "totalPrice": "2222.00 TL",
+      "status": "Beklemede",
+      "orderDate": "2025-01-27T19:52:29.853673",
+      "userEmail": "ysnkrgz04@gmail.com"
+    },
+    {
+      "id": "1738074144458",
+      "items": [
+        {
+          "id": "1",
+          "name": "Nike Air Max",
+          "price": "2500 TL",
+          "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=500&q=80",
+          "category": "Ayakkabı"
+        },
+        {
+          "id": "3",
+          "name": "Under Armour T-Shirt",
+          "price": "899 TL",
+          "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=500&q=80",
+          "category": "Giyim"
+        }
+      ],
+      "totalPrice": "3399.00 TL",
+      "status": "Beklemede",
+      "orderDate": "2025-01-28T14:22:20.754607",
+      "userEmail": "ysnkrgz04@gmail.com"
+    },
+    {
+      "id": "1738089064746",
+      "items": [
+        {
+          "id": "1",
+          "name": "Nike Air Max",
+          "price": "2500 TL",
+          "imageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=500&q=80",
+          "category": "Ayakkabı"
+        },
+        {
+          "id": "4",
+          "name": "Wilson Basketbol Topu",
+          "price": "1999 TL",
+          "imageUrl": "https://images.unsplash.com/photo-1519861155730-0b5fbf0dd889?auto=format&fit=crop&w=500&q=80",
+          "category": "Basketbol"
+        },
+        {
+          "id": "3",
+          "name": "Under Armour T-Shirt",
+          "price": "899 TL",
+          "imageUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=500&q=80",
+          "category": "Giyim"
+        }
+      ],
+      "totalPrice": "5398.00 TL",
+      "status": "Onaylandı",
+      "orderDate": "2025-01-28T18:31:00.198897",
+      "userEmail": "yusuftahaorhan@gmail.com"
+    }
+  ]
