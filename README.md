@@ -75,6 +75,8 @@ lib/
 |--yardımcılar/     #Yardımcı fonksiyonlar
 |--auth/            #Doğrulama fonksiyonları
 ```
+## Demo Video
+https://github.com/user-attachments/assets/90dd116c-3f8e-486f-b192-c6ec6cc835f3
 
 ## Ekran Görüntüleri
 <img src="https://github.com/Ysnkrgzz/SportCity/blob/f0ed8384a4738627c144946234cc6c2cd16fd68f/EkranGoruntuleri/1-Loading.png" width="200" height="400" />
@@ -89,6 +91,7 @@ lib/
 <img src="https://github.com/Ysnkrgzz/SportCity/blob/f0ed8384a4738627c144946234cc6c2cd16fd68f/EkranGoruntuleri/10-KategoriYonetim.png" width="200" height="400" />
 <img src="https://github.com/Ysnkrgzz/SportCity/blob/f0ed8384a4738627c144946234cc6c2cd16fd68f/EkranGoruntuleri/11-Siparisler.png" width="200" height="400" />
 <img src="https://github.com/Ysnkrgzz/SportCity/blob/f0ed8384a4738627c144946234cc6c2cd16fd68f/EkranGoruntuleri/11-SiparislerDetay.png" width="200" height="400" />
+
 
 
 ## Projeye Katkı Sağlama
